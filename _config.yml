@@ -101,3 +101,23 @@ deploy:
   type: 'git'
   repo: https://github.com/sompengpeng/sompengpeng.github.io.git
   branch: master
+  
+#添加模块
+jsonContent:
+    meta: false
+    pages: false
+    posts:
+      title: true
+      date: true
+      path: true
+      text: false
+      raw: false
+      content: false
+      slug: false
+      updated: false
+      comments: false
+      link: false
+      permalink: false
+      excerpt: false
+      categories: false
+      tags: true
