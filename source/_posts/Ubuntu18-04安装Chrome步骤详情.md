@@ -1,7 +1,7 @@
 ---
 title: Ubuntu18.04安装Chrome步骤详情
 date: 2019-04-24 08:33:41
-tags:
+tags: chrome
 ---
 
 # Ubuntu18.04安装Google Chrome浏览器  --sompeng

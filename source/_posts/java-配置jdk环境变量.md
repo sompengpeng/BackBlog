@@ -1,7 +1,7 @@
 ---
 title: java 配置jdk环境变量
 date: 2019-04-30 11:12:19
-tags:
+tags: JAVA
 ---
 # java 配置jdk环境变量  --sompeng
 # java 配置jdk jre 环境变量

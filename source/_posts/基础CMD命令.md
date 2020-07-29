@@ -1,7 +1,7 @@
 ---
 title: 基础CMD命令
 date: 2019-04-10 15:27:38
-tags:
+tags:  运行命令
 ---
 
 # 运行操作  --sompeng
@@ -98,6 +98,6 @@ CMD命令锦集:
     98. regsvr32 /u zipfldr.dll------取消ZIP支持
     99. cmd.exe--------CMD命令提示符
 
-#    西威电梯江苏有限公司-设备部
+#    sompeng
 
 
